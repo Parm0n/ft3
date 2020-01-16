@@ -1,3 +1,5 @@
+package additional
+
 object Helpers {
   def Max(f: Int, s: Int): Int={
     if(f > s){
